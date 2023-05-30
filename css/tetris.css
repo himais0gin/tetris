@@ -42,3 +42,8 @@ html {
     text-align: center;
     background: #444444;
 }
+
+body{
+    background: linear-gragient(45deg, #5C5C54, #8F8F87);
+    color:#cccccc;
+}
